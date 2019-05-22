@@ -1,0 +1,3 @@
+rootProject.name = 'whitedove_3706'
+
+include ':app'

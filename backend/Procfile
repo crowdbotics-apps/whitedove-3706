@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT whitedove_3706.wsgi:application
